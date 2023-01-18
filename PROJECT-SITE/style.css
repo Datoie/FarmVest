@@ -631,7 +631,7 @@ footer {
 }
 
 /* list */
-.list-wrapper {
+.list-wrapper> {
     display: flex;
     justify-content: space-between;
 
